@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec87916b.css",
+    "main.js": "/static/js/main.6cc63b0e.js",
+    "static/media/bg.png": "/static/media/bg.b13ba783696391bc5e99.png",
+    "static/media/contact_bg.jpg": "/static/media/contact_bg.b4facb2a21a0967867f1.jpg",
+    "static/media/CopperplateGothic Regular.ttf": "/static/media/CopperplateGothic Regular.2d82034a7e44c0dde20c.ttf",
+    "static/media/CopperplateGothic Bold.ttf": "/static/media/CopperplateGothic Bold.f3c62e5403fc230ca204.ttf",
+    "static/media/Hanson-Bold.ttf": "/static/media/Hanson-Bold.79d7d85e1fb162a1da6b.ttf",
+    "index.html": "/index.html",
+    "main.ec87916b.css.map": "/static/css/main.ec87916b.css.map",
+    "main.6cc63b0e.js.map": "/static/js/main.6cc63b0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec87916b.css",
+    "static/js/main.6cc63b0e.js"
+  ]
+}
